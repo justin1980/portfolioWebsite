@@ -29,7 +29,7 @@ nav {
     border: 1px solid transparent;
 }
 
-.logo: hover {
+.logo:hover {
     border: 1px solid #03A63C;
     border-radius: 50%;
 
@@ -57,7 +57,7 @@ nav ul li a {
     
 }
 
-nav ul li a: hover {
+nav ul li a:hover {
     transition: all 1s ;
     color: #04D939;
     border-bottom: 2px solid  #027333;
